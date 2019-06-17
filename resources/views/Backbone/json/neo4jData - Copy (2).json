@@ -1,0 +1,345 @@
+{
+    "results": [{
+        "columns": ["user", "entity"],
+        "data": [{
+            "graph": {
+                "nodes": [{				
+                    "id": "1",				
+		    "name": ["BMASJP01JR01"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "2",				
+		    "name": ["CRSLMGW1"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "3",				
+		    "name": ["DHKRBC01JR01P_MX480"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "4",				
+		    "name": ["HA5505_MX104"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "5",				
+		    "name": ["HGSDR01"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "6",				
+		    "name": ["HGSDR02-AGG"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "7",				
+		    "name": ["HGSDR04"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "8",				
+		    "name": ["HGSJBP01JR01"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "9",				
+		    "name": ["MBJRI02"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "10",				
+		    "name": ["MBSDR01-AGG"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "11",				
+		    "name": ["MBSDR02"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "12",				
+		    "name": ["MBSRMP01JR01"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "13",				
+		    "name": ["SNCTK02-AGG"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "14",				
+		    "name": ["SNCTK25"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "15",				
+		    "name": ["SNDKS09"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "16",				
+		    "name": ["SNSDR02-AGG"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "17",				
+		    "name": ["SNSDR03"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "18",				
+		    "name": ["SYBNB03-AGG"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "19",				
+		    "name": ["SYBNB11-AGG"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "20",				
+		    "name": ["SYL_X0138"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "21",				
+		    "name": ["SYSDR01"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                },				
+{				
+                    "id": "22",				
+		    "name": ["SYUSHC01JR01"],		
+                    "labels": ["Router"],				
+                    "properties": {				
+                        "userId": "eisman"				
+                    }				
+                }],
+                "relationships": [{
+                    "id": "1",
+                    "type": "HAS_PHONE_NUMBER",
+                    "startNode": "1",
+                    "endNode": "2",
+                    "properties": {
+                        "from": 1473581532586
+                    }
+                }, {
+                    "id": "2",
+                    "type": "HAS_ADDRESS",
+                    "startNode": "1",
+                    "endNode": "3",
+                    "properties": {
+                        "from": 1473581532586
+                    }
+                }, {
+                    "id": "3",
+                    "type": "HAS_BIRTH_DATE",
+                    "startNode": "1",
+                    "endNode": "4",
+                    "properties": {
+                        "from": 1473581532586
+                    }
+                }, {
+                    "id": "4",
+                    "type": "HAS_PASSWORD",
+                    "startNode": "1",
+                    "endNode": "5",
+                    "properties": {
+                        "from": 1473581532586
+                    }
+                }, {
+                    "id": "5",
+                    "type": "USED_DEVICE",
+                    "startNode": "1",
+                    "endNode": "6",
+                    "properties": {
+                        "from": 1473581532586
+                    }
+                }, {
+                    "id": "6",
+                    "type": "HAS_SECURITY_ANSWER",
+                    "startNode": "1",
+                    "endNode": "7",
+                    "properties": {
+                        "from": 1473581532586
+                    }
+                }, {
+                    "id": "7",
+                    "type": "DEVELOPES",
+                    "startNode": "1",
+                    "endNode": "8",
+                    "properties": {
+                        "from": 1470002400000
+                    }
+                }, {
+                    "id": "8",
+                    "type": "REPOSITORY",
+                    "startNode": "8",
+                    "endNode": "9",
+                    "properties": {}
+                }, {
+                    "id": "9",
+                    "type": "ISSUES",
+                    "startNode": "8",
+                    "endNode": "10",
+                    "properties": {}
+                }, {
+                    "id": "10",
+                    "type": "HOSTED_ON",
+                    "startNode": "8",
+                    "endNode": "11",
+                    "properties": {}
+                }, {
+                    "id": "11",
+                    "type": "HOSTED_ON",
+                    "startNode": "12",
+                    "endNode": "11",
+                    "properties": {}
+                }, {
+                    "id": "12",
+                    "type": "HOSTED_ON",
+                    "startNode": "13",
+                    "endNode": "11",
+                    "properties": {}
+                }, {
+                    "id": "13",
+                    "type": "HAS_EMAIL",
+                    "startNode": "1",
+                    "endNode": "14",
+                    "properties": {}
+                }, {
+                    "id": "14",
+                    "type": "USED_CREDIT_CARD",
+                    "startNode": "1",
+                    "endNode": "15",
+                    "properties": {}
+                }, {
+                    "id": "15",
+                    "type": "DEPENDS_ON",
+                    "startNode": "8",
+                    "endNode": "12",
+                    "properties": {}
+                }, {
+                    "id": "16",
+                    "type": "DEPENDS_ON",
+                    "startNode": "8",
+                    "endNode": "13",
+                    "properties": {}
+                }, {
+                    "id": "17",
+                    "type": "OPTIONS",
+                    "startNode": "8",
+                    "endNode": "16",
+                    "properties": {}
+                }, {
+                    "id": "18",
+                    "type": "HAS_LANGUAGE",
+                    "startNode": "6",
+                    "endNode": "17",
+                    "properties": {}
+                }, {
+                    "id": "19",
+                    "type": "HAS_COOKIE",
+                    "startNode": "6",
+                    "endNode": "18",
+                    "properties": {}
+                }, {
+                    "id": "20",
+                    "type": "HAS_IP",
+                    "startNode": "6",
+                    "endNode": "19",
+                    "properties": {}
+                }, {
+                    "id": "21",
+                    "type": "ICONS",
+                    "startNode": "16",
+                    "endNode": "20",
+                    "properties": {}
+                }, {
+                    "id": "22",
+                    "type": "ZOOM_IN",
+                    "startNode": "20",
+                    "endNode": "21",
+                    "properties": {}
+                }, {
+                    "id": "23",
+                    "type": "ZOOM_OUT",
+                    "startNode": "21",
+                    "endNode": "22",
+                    "properties": {}
+                }, {
+                    "id": "24",
+                    "type": "13751.530/20000",
+                    "startNode": "16",
+                    "endNode": "21",
+                    "properties": {}
+                }]
+            }
+        }]
+    }],
+    "errors": []
+}
